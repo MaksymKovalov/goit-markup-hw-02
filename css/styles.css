@@ -15,22 +15,7 @@ h5,
 h6 {
   color: #2e2f42;
 }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Container */
-.container {
-  max-width: 1158px;
-}
-
 /* Header */
-.header {
-  border: 1px solid #e7e9fc;
-}
-
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -95,7 +80,6 @@ img {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-
   letter-spacing: 0.04em;
   cursor: pointer;
 }
@@ -115,14 +99,6 @@ img {
 }
 
 /* Features Section */
-.features-list {
-  border-top: 1px solid #e7e9fc;
-}
-
-.features-item {
-  border: 1px solid #e7e9fc;
-}
-
 .features-title {
   font-weight: 500;
   font-size: 20px;
@@ -140,11 +116,6 @@ img {
 .team {
   background-color: #f4f4fd;
 }
-
-.team-list {
-  border-top: 1px solid #e7e9fc;
-}
-
 .team-item {
   background-color: #ffffff;
   text-align: center;
@@ -155,7 +126,6 @@ img {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  margin: 32px 0 8px;
 }
 
 .team-text {
@@ -164,20 +134,11 @@ img {
 }
 
 /* Portfolio Section */
-.portfolio-list {
-  border-top: 1px solid #e7e9fc;
-}
-
-.portfolio-item {
-  border: 1px solid #e7e9fc;
-}
-
 .portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  margin: 32px 0 8px;
 }
 
 .portfolio-text {
@@ -193,8 +154,7 @@ img {
   color: #4d5ae5;
 }
 .footer-text {
-  color: #e7e9fc;
+  color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
-  max-width: 264px;
 }
