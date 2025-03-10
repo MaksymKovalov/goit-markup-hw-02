@@ -45,10 +45,6 @@ h6 {
   color: #404bbf;
 }
 
-.nav-link.active {
-  color: #2e2f42;
-}
-
 .contacts {
   font-style: normal;
 }
@@ -151,7 +147,7 @@ h6 {
   background-color: #2e2f42;
 }
 .footer-logo {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .footer-text {
   color: #f4f4fd;
